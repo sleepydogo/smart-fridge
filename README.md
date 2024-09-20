@@ -21,8 +21,8 @@ Este proyecto fue presentado por **Aldana Tedesco**, **Emiliano Mengoni**, **Lis
 1. Clona el repositorio del proyecto:
 
    ```bash
-   git clone https://github.com/tu-usuario/smart-fridge-backend.git
-   cd smart-fridge-backend
+   cd Backend
+
 2. Crea y activa un entorno virtual:
         
     En Linux/MacOS:
@@ -59,7 +59,7 @@ El backend estará corriendo en http://localhost:8000/.
 1. Ve al directorio del frontend:
 
 
-        cd ../smart-fridge-frontend
+        cd Frontend
 
 2. Instala las dependencias de Node.js:
 
