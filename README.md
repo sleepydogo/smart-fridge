@@ -1,6 +1,7 @@
 # Smart Fridge
 
-**Smart Fridge** es una aplicación de código abierto que tiene como objetivo gestionar y optimizar el uso de los alimentos en tu refrigerador. La aplicación te permite llevar un control detallado de los productos almacenados, avisar sobre fechas de caducidad, y sugerir recetas basadas en los ingredientes disponibles.
+**Smart Fridge** es una aplicación de código abierto diseñada para gestionar y optimizar la compra de alimentos en refrigeradores comunitarios ubicados en áreas de alta afluencia. A través de la aplicación, los usuarios pueden adquirir productos dentro del refrigerador mediante una plataforma de Ecommerce. Una vez completada la compra, el refrigerador se desbloquea, permitiendo el acceso al artículo adquirido. Utilizamos un sistema de cámaras y tecnología de inteligencia artificial para monitorear las extracciones y garantizar que coincidan con las compras realizadas, lo que permite el débito automático en la tarjeta del usuario por el producto retirado.
+
 
 Este proyecto fue presentado por **Aldana Tedesco**, **Emiliano Mengoni**, **Lisandro Vicens**, y **Tomás Schattmann**. El backend está desarrollado en **Django Rest Framework** y el frontend utiliza **Next.js** con **React**.
 
