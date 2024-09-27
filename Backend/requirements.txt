@@ -43,6 +43,7 @@ httplib2==0.22.0
 idna==2.10
 jeepney==0.8.0
 kombu==5.4.0
+mercadopago==2.2.3
 msgpack==1.0.8
 multidict==6.0.5
 numpy==2.1.0
